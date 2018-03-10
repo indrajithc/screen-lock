@@ -1,0 +1,13 @@
+G:\Visual Studio 2015\lock\lock\bin\Debug\@lock.exe.config
+G:\Visual Studio 2015\lock\lock\bin\Debug\@lock.exe
+G:\Visual Studio 2015\lock\lock\bin\Debug\@lock.pdb
+G:\Visual Studio 2015\lock\lock\obj\Debug\lock.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015\lock\lock\obj\Debug\lock.Form1.resources
+G:\Visual Studio 2015\lock\lock\obj\Debug\lock.Properties.Resources.resources
+G:\Visual Studio 2015\lock\lock\obj\Debug\lock.csproj.GenerateResource.Cache
+G:\Visual Studio 2015\lock\lock\obj\Debug\@lock.exe
+G:\Visual Studio 2015\lock\lock\obj\Debug\@lock.pdb
+G:\Visual Studio 2015\lock\lock\obj\Debug\howto_simple_password.PasswordForm.resources
+G:\Visual Studio 2015\lock\lock\obj\Debug\lockBk.lockBkN.resources
+G:\Visual Studio 2015\lock\lock\obj\Debug\readPass.passGet.resources
+G:\Visual Studio 2015\lock\lock\obj\Debug\lockd.FirstPassGet.resources
